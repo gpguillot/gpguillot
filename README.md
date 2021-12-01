@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gpguillot
-- 🌱 I’m currently a CS graduate grad student
+- 🌱 I’m currently a CS grad student @JHU
 - 💞️ I’m open to collaboration
 - 📫 How to reach me guillot.greg@gmail.com
 
