@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gpguillot
-- I’m currently a CS grad student @JHU
+- @JHU, @AMZN
 - I’m open to collaboration
 - How to reach me guillot@ieee.org
 
