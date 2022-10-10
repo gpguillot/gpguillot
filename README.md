@@ -1,5 +1,5 @@
 Just a spark.
-@JHU, @AMZN
+@JHU, @AMZN.
 guillot@ieee.org
 
 <!---
